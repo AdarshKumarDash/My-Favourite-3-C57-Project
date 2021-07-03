@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    height: 200px;
+    border-radius: 40%;
+}
+
+#hding {
+    font-size: 25px;
+}
+
+#about {
+    background-image: linear-gradient(red, yellow, lightgreen)
+}
+
+#home {
+    background-color: deepskyblue;
+}
+
+h1 {
+    font-family: cursive;
+}
