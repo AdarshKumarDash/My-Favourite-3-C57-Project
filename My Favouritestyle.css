@@ -18,6 +18,7 @@ img {
 
 #home {
     background-color: deepskyblue;
+    height: 750px;
 }
 
 h1 {
@@ -54,4 +55,9 @@ p {
     width: 100px;
     background-color: black;
     margin: 25px auto;
+}
+
+span {
+    font-family: 'Cedarville Cursive', cursive;
+    color: red;
 }
