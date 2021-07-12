@@ -5,11 +5,17 @@ body {
 .prf {
     height: 200px;
     border-radius: 50%;
+    transition: all .5s;
+}
+
+.prf:hover {
+    width: 400px;
+    height: 300px;
 }
 
 #hding {
     font-size: 25px;
-    
+
 }
 
 #about {
@@ -63,23 +69,26 @@ span {
     font-family: 'Cedarville Cursive', cursive;
     color: red;
 }
+
 html {
     scroll-behavior: smooth;
 }
+
 a {
     color: greenyellow;
     text-decoration: none;
 }
+
 .img1 {
     height: 300px;
+    transition: all .5s;
 }
-.Kalam {
-    color: orange;
-    font-size: 20px;
+
+.img1:hover {
+    width: 400px;
+    height: 400px;
 }
-.Kalam:hover {
-    color: red;
-}
+
 .points {
     text-align: left;
     color: red;
